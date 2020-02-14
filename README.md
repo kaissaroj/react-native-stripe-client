@@ -8,6 +8,8 @@ React/React Native Stripe wrapper for using Stripe in Web/iOS/Android.
 npm install react-native-stripe-client --save
 ```
 
+[Example](https://codesandbox.io/s/react-native-stripe-client-example-dw9c9)
+
 ## Usage
 
 `import stripe from 'react-native-stripe-client'`
