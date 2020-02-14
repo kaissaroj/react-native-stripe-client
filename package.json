@@ -1,7 +1,7 @@
 {
   "name": "react-native-stripe-client",
   "version": "0.0.1",
-  "description": "Stripe Client For React/React Native ",
+  "description": "Stripe Client For React/React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,10 @@
   ],
   "dependencies": {
     "form-urlencoded": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaissaroj/react-native-stripe-client"
   },
   "author": "saroj",
   "license": "MIT"
