@@ -1,6 +1,6 @@
 # React/React Native Stripe Client
 
-React/React Native Stripe wrapper for using Stripein Web/iOS/Android.
+React/React Native Stripe wrapper for using Stripe in Web/iOS/Android.
 
 ## Installation
 
