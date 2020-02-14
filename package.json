@@ -1,6 +1,6 @@
 {
   "name": "react-native-stripe-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stripe Client For React/React Native",
   "main": "index.js",
   "scripts": {
